@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 1,
+    "id": "Warlock-Water-Dragon",
+    "name": "Warlock Water Dragon",
+    "author": "AkiraTheSquid",
+    "repoUrl": "https://github.com/AkiraTheSquid/Warlock-Water-Dragon",
+    "version": {
+      "major": 0,
+      "minor": 3,
+      "patch": 0
+    },
+    "theme": ["dark"],
+    "enableOnMobile": false,
+    "description": "Another Warlock spinoff With water dragon colors",
+    "requestNative": false,
+    "requiredScopes": [
+      {
+        "type": "All",
+        "level": "Read"
+      }
+    ]
+  }
